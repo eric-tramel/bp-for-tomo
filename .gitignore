@@ -2,3 +2,6 @@
 *.o
 *.sublime-project
 *.sublime-workspace
+*.pyx
+*.so
+./build
