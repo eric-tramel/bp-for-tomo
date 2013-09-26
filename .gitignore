@@ -3,5 +3,6 @@
 *.sublime-project
 *.sublime-workspace
 *.pyx
+*.pyc
 *.so
 ./build
