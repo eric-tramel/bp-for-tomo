@@ -32,6 +32,8 @@ several Python modules
 
 * Cython
 
+* Scikit-image
+
 * optional: matplotlib (to plot the demo results) and scikit-image (for
   utility functions to preprocess real data).
 
